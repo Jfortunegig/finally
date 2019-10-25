@@ -1,9 +1,20 @@
-body{
-    background-color:blueviolet;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.btn btn-outline-success my-2 my-sm-0 {
+    color: #000;
+}
+#cash {
+    background-color:darkblue;
+}
 
-    line-height:1.6em;
+
+body{
+    background-color: ivory
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center;
+
+    
 
 .box-1{
-    margin-top: 30px;
-}
+    margin-top: 30px; border: darkblue;
+} 
+#time {
+    color: black;
+} 
