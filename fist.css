@@ -1,5 +1,8 @@
 .btn btn-outline-success my-2 my-sm-0 {
-    color: #000;
+    color: #000; background-color: #3399ff;
+}
+.btn :hover{
+    color: #3399ff;
 }
 #cash {
     background-color:darkblue;
@@ -18,3 +21,6 @@ body{
 #time {
     color: black;
 } 
+.end {
+    margin-bottom: 0px;
+}
