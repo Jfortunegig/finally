@@ -1,11 +1,21 @@
-.btn btn-outline-success my-2 my-sm-0 {
-    color: #000; background-color: #3399ff;
+.btn-primary {
+    text-decoration-color: darkgray;
+    border-block-color: #3399ff;
 }
-.btn :hover{
+
+.btn-primary :hover .btn-primary :focus .btn-primary :active .btn-primary :active {
     color: #3399ff;
+    background-color:  #3399ff;
+    border-color: #3399ff;
+
 }
+    
+
+
 #cash {
     background-color:darkblue;
+    
+    position: sticky;
 }
 
 
@@ -16,11 +26,14 @@ body{
     
 
 .box-1{
-    margin-top: 30px; border: darkblue;
+    margin-top: 30px; border: yellow;
 } 
 #time {
     color: black;
 } 
 .end {
     margin-bottom: 0px;
+}
+#bottom {
+    position: sticky;
 }
